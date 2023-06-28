@@ -1,0 +1,52 @@
+body{
+    height: 100vh;
+    width: auto;
+    background-color: black;
+    color: white;
+    font-family: inter;
+    display: flex;
+    justify-content: center;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    height: 100vh;
+    width: 100%;
+    margin-top : 15%;
+    padding : 5%;
+}
+
+.btns{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top : 5%;
+}
+
+.btns > button{
+
+    background-color: white;
+    color : black;
+    border : none;
+    height: 50px;
+    width : 100px;
+    transition : 0.5ms ease-in-out;
+}
+
+.btns > button:hover{
+    background-color: black;
+    color : white;
+    font-size: 1.2rem;
+}
+
+.acnt-info{
+    display: flex;
+}
+.acnt-info >p{
+
+    margin  : 5%;
+}
