@@ -56,8 +56,8 @@ npm run dev
 If you encounter any issues or have any questions, please feel free to contact the authors.
 
 ## Authors
-
-- Author : [Ayush Kathayat](mailto:hosiyars281@gmail.com)
+- Author 1 : MetacrafterChris  (Forked his starter template)
+- Author 2 : [Ayush Kathayat](mailto:hosiyars281@gmail.com)
 
 
 ## License
