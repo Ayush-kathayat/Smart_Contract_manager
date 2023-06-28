@@ -57,7 +57,7 @@ If you encounter any issues or have any questions, please feel free to contact t
 
 ## Authors
 
-- Author 2 : [Ayush Kathayat](mailto:hosiyars281@gmail.com)
+- Author : [Ayush Kathayat](mailto:hosiyars281@gmail.com)
 
 
 ## License
